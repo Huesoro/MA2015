@@ -1,0 +1,33 @@
+--- Job reto1.gms Start 09/07/24 15:30:07 46.5.0 a671108d WEX-WEI x86 64bit/MS Windows
+--- Applying:
+    C:\GAMS\46\gmsprmNT.txt
+--- GAMS Parameters defined
+    Input C:\Users\progra.DESKTOP-GV4Q93K\Documents\Vstudio\Geneticos\retointegrador\reto1.gms
+    XSave C:\Users\progra.DESKTOP-GV4Q93K\Documents\Vstudio\Geneticos\retointegrador\reto1.g0?
+    PageSize 0
+    Action C
+    ScrDir C:\Users\progra.DESKTOP-GV4Q93K\Documents\Vstudio\Geneticos\retointegrador\225a\
+    SysDir C:\GAMS\46\
+    LogOption 3
+    ErrMsg 1
+    ErrorLog 99
+    IDE 1
+    LstTitleLeftAligned 1
+    PreviousWork 1
+Licensee: GAMS Community License for Ricardo Kaleb FloresG240527|0002AO-GEN
+          INSTITUTO TECNOLOGICO Y DE EST. SUP. DE MONTERREY, IndustrCL15732
+          C:\Users\progra.DESKTOP-GV4Q93K\Documents\GAMS\gamslice.txt
+          Ricardo Kaleb Flores Alfonso, a01198716@tec.mx                   
+          Community license for demonstration and instructional purposes only
+Processor information: 1 socket(s), 4 core(s), and 8 thread(s) available
+GAMS 46.5.0   Copyright (C) 1987-2024 GAMS Development. All rights reserved
+--- Starting compilation
+--- reto1.gms(8) 3 Mb
+--- . dist_matrix0.csv(41) 3 Mb
+--- reto1.gms(27) 3 Mb
+*** Status: Normal completion
+--- Job reto1.gms Stop 09/07/24 15:30:07 elapsed 0:00:00.026
+
+--- switch to NEOS .\reto1\solve.lst
+Job 14533551 dispatched
+password: zcdWqmVp
